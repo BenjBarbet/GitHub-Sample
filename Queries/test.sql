@@ -1,0 +1,1 @@
+SELECT count(s.ResourceID) FROM v_R_System AS s
