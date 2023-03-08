@@ -1,1 +1,1 @@
-SELECT count(s.ResourceID) FROM v_R_System AS s
+SELECT count(v_R_System.ResourceID) FROM v_R_System
