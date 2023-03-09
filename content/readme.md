@@ -7,3 +7,5 @@ Notebooks in this Solution
 [MEM](MEM.ipynb) - MEM Notebook
 
 [PowerShell](powershellNotebook.ipynb) - PowerShell Notebook
+
+[Phyton](PhytonNotebook.ipynb) - Phyton Notebook
