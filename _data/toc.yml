@@ -17,3 +17,6 @@
   - title: MEM Notebook Example
     # the following 'url:' could point to either a .md or .ipynb file. Note that the associated 'readme.md' file (under the 'content' folder) also has a link to this file
     url: MEM
+  - title: PowerShell Notebook Example
+    # the following 'url:' could point to either a .md or .ipynb file. Note that the associated 'readme.md' file (under the 'content' folder) also has a link to this file
+    url: powershellNotebook
